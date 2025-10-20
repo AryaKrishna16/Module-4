@@ -17,7 +17,7 @@ class cse:
         self.r=r
         self.a=math.pi*self.r*self.r
         print(f"Area of circle: {self.a:.2f}")
-b=CSE()
+b=cse()
 b.mech()
 ```
 
